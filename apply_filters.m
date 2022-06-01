@@ -5,7 +5,7 @@ secondFreq = [170 310 600 1000 3000 6000 12000 14000 16000];
 order = 0;
 
 if filterClass == 0 % FIR
-    order = 100;
+    order = 500;
 elseif filterClass == 1 % IIR
     order = 4;
 end

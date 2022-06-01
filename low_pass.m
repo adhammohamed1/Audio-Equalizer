@@ -13,4 +13,3 @@ elseif(filterClass == 1) % IIR
 end
 
 end
-
