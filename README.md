@@ -12,4 +12,9 @@ This is an audio equalizer created using MATLAB. The GUI was created using ML ap
 - The audio can be processed using FIR (finite impulse response) or IIR (infinite impulse response)
 
 ## Sample Run
-Sample run can be find in this document: [Sample Run](SampleRun.pdf)
+> Sample run with FIR & IIR filter analyses can be found in this document: [Sample Run](SampleRun.pdf)
+
+**Main UI**
+
+![main](https://user-images.githubusercontent.com/90573502/171467461-e3d3b828-c7c5-4c3d-97d2-6bb28beb4352.jpg)
+
